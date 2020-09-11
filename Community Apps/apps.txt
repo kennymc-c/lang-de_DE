@@ -226,10 +226,10 @@ OtherUncategorized=Andere:Ohne Kategorie
 and %s more=und %s mehr
 
 ; App Popup Related
-Donate To Author=Spende an Autor*in
-Donate To Maintainer=Spende an Betreuer*in
-Author=Autor*in
-Maintainer=Betreuer*in
+Donate To Author=Spende an Autor/in
+Donate To Maintainer=Spende an Betreuer/in
+Author=Autor/in
+Maintainer=Betreuer/in
 DockerHub=DockerHub
 Application Template=Anwendungsvorlage
 Base OS=Basis OS
@@ -335,6 +335,6 @@ Clicking these icons will pin or unpin an application for later viewer from the 
 Clicking this will display more information about the application NOTE You can also click on the applications icon to display more information=Klicke für mehr Informationen zur Anwendung. HINWEIS Klicken auf das Anwendungsicon zeigt ebenfalls mehr Informationen der Anwendung
 Clicking this will display any warnings or extra comments about the application=Ein Klick hierauf zeigt Warnungen oder weitere Kommentare zur Anwendung
 On the previous apps section you can select multiple applications to install simultaneously=Im Menü Vorherige Apps können mehrer Anwendungen gleichzeitig installiert werden
-This is the recommended version to install by the application author themselves=Dies ist die vom/von der Autor*in empfohlene Version zur Installation
+This is the recommended version to install by the application author themselves=Dies ist die vom/von der Autor/in empfohlene Version zur Installation
 For support for this plugin visit=Für Hilfe zu diesem Plugin gehe zu
 To view the policies Community Applications has=Die Richtlinien der Community Applications ansehen
