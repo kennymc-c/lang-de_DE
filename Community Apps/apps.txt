@@ -19,26 +19,26 @@ Sort By Trend=Nach Trend sortieren
 Sort By Date Added=Nach Hinzufügedatum sortieren
 ; Initial disclaimer translations
 Disclaimer=Haftungsausschluss
-All applications listed here are 3rd party additions to Unraid Neither the authors of Community Applications nor Limetech make any warranty as to the suitability of any application listed here=Alle hier aufgelisteten Programme für Unraid stammen von Drittanbietern, weder die Autoren der Community Applications noch Limetech übernehmen jegliche Garantie über die Angemessenheit der aufgeführten Programme
-Every attempt is made to ensure that only safe and compatible applications are present=Es wird alles unternommen nur sichere und kompatible Programme anzubieten
+All applications listed here are 3rd party additions to Unraid Neither the authors of Community Applications nor Limetech make any warranty as to the suitability of any application listed here=Alle hier aufgelisteten Programme für Unraid stammen von Drittanbietern. Weder die Autoren der Community Applications noch Limetech übernehmen jegliche Garantie über die Eignung der aufgeführten Programme
+Every attempt is made to ensure that only safe and compatible applications are present=Es wird alles unternommen, damit nur sichere und kompatible Programme angeboten werden
 Application Policy=Anwendungsrichtlinie
 I Understand=Einverstanden
-Installations of apps disabled You must accept the warning to be able to install applications=Die Installation von Apps ist deaktiviert. Bitte die Warnung akzeptieren um Programme installieren zu können
+Installations of apps disabled You must accept the warning to be able to install applications=Die Installation von Apps ist deaktiviert. Bitte akzeptiere die Warnung, um Programme installieren zu können
 Click here=Klicke hier
 
 ; Plugin Disclaimer
-Community Applications contains both docker containers and plugin applications Plugins are designed for OS enhancements, and run with full privileges on your system and are clearly identified within CA=Community Applications enthält Docker Container und Plugins. Plugins sind zur Systemverbesserungen entwickelt, werden mit allen Benutzerrechten auf dem System ausgeführt und sind klar innerhalb CA identifiziert
+Community Applications contains both docker containers and plugin applications Plugins are designed for OS enhancements, and run with full privileges on your system and are clearly identified within CA=Community Applications enthält Docker Container und Plugins. Plugins sind zur Systemverbesserungen entwickelt, werden mit allen Benutzerrechten auf dem System ausgeführt und sind klar innerhalb von CA gekennzeichnet
 Plugin Note=Plugin Hinweis
 
 ; Multi Install
 Install Plugin Applications=Plugin installieren
-Select all on page=Alle auf der Seite auswählen
+Select all on page=Alles auf der Seite auswählen
 
 ; Searches
 Search=Suche
 Please enter search term=Bitte Suchtext eingeben
-Click Here To Get More Results From DockerHub=Klick hier um zusätzliche Ergebnisse von DockerHub zu erhalten
-No Matching Applications Found On Docker Hub=Keine passenden Container auf DockerHub gefunden
+Click Here To Get More Results From DockerHub=Klick hier, um zusätzliche Ergebnisse von DockerHub zu erhalten
+No Matching Applications Found On Docker Hub=Keine passenden Anwedungen auf DockerHub gefunden
 No Matching Applications Found=Keine passenden Anwendungen gefunden
 
 ; Install Plugin title of openbox
@@ -57,11 +57,11 @@ Remove Private Application=Private Anwendung entfernen
 Yes, remove it=Ja, entfernen
 
 ; App Pinning
-Click to pin this application=Klicke um Anwendung zu makieren
-Click to unpin this application=Klicke um die Makierung der Anwendung aufzuheben
+Click to pin this application=Klicke, um diese Anwendung zu makieren
+Click to unpin this application=Klicke, um die Makierung der Anwendung aufzuheben
 
 ; Branch installations
-Choose A Branch To Install=Wähle einen Branch zum installieren
+Choose A Branch To Install=Wähle einen Zweig zum installieren
 
 ; Multiple application installs
 ; no apps selected
@@ -74,18 +74,18 @@ Yes, install them=Ja, installieren
 Cookies not enabled Plugins must be separately installed from docker applications=Cookies sind nicht aktiviert Plugins müssen getrennt von Docker Container installiert werden
 Docker applications will be installed utilizing the most recently saved template with no user input on your part=Docker Container werden mit der aktuellsten Vorlage ohne benutzerdefinierte Eingaben installiert
 Updating Support Links=Hilfe Links werden aktualisiert
-Finished Installing If the DONE button did not appear, then you will need to click the red X in the top right corner=Installation abgeschlossen. Falls der FERTIG Button nicht erscheint, klicke bitte das rote X in der oberen rechten Ecke
+Finished Installing If the DONE button did not appear, then you will need to click the red X in the top right corner=Installation abgeschlossen. Falls der FERTIG Button nicht erscheint, klicke bitte auf das rote X in der oberen rechten Ecke
 
 ; error messages
 No data was returned It is probable that another browser session has rebooted your server Reloading this browser tab will probably fix this error=Keine Daten erhalten. Es kann sein, dass eine andere Browserinstanz den Server neu gestartet hat. Das Neuladen dieses Tabs behebt das Problem wahrscheinlich
 An error occurred Could not find any %s Apps=Es ist ein Fehler aufgetreten. Es konnten keine %s Anwendungen gefunden werden.
-Download of appfeed failed=Herunterladen des Appfeed fehlgeschlagen
+Download of appfeed failed=Herunterladen der Anwendungsliste fehlgeschlagen
 ; the %s here refers to a function being called
 Something really went wrong here=Etwas ist schief gegangen
-Post the ENTIRE contents of this message in the Community Applications Support Thread=Poste den GESAMTEN Inhalt dieser Nachricht in den Community Application Support Post im Forum
-Unknown error happened Please post a screenshot in the support thread of the Statistics screen=Ein unbekannter Fehler ist aufgetreten. Bitte poste einen Screenshot vom Statistik Fenster in den Support Thread
-Something really wrong happened Reloading the Apps tab will probably fix the problem=Etwas ist schief gegangen. Das Neuladen des App Tabs behebt das Problem wahrscheinlich
-This plugin has a duplicated name from another plugin %s This will impact your ability to install both plugins simultaneously=Dieses Plugin verwendeten bereits einen Name von einem anderen Plugin %s. Dies beeinträchtigt die Installation beider Plugins gleichzeitig
+Post the ENTIRE contents of this message in the Community Applications Support Thread=Poste den GESAMTEN Inhalt dieser Nachricht in den Community Application Hilfe Thread im Forum
+Unknown error happened Please post a screenshot in the support thread of the Statistics screen=Ein unbekannter Fehler ist aufgetreten. Bitte poste einen Screenshot vom Statistik Fenster in den Hilfe Thread
+Something really wrong happened Reloading the Apps tab will probably fix the problem=Etwas ist schief gegangen. Das Neuladen des Reiters Apps behebt das Problem wahrscheinlich
+This plugin has a duplicated name from another plugin %s This will impact your ability to install both plugins simultaneously=Dieses Plugin verwendeten bereits den Name eines anderen Plugin %s. Dies beeinträchtigt die gleichzeitige Installation beider Plugins
 You have been logged out=Sie wurden abgemeldet
 
 ; CA Sections Keep the length reasonable
@@ -97,21 +97,21 @@ CATEGORIES=KATEGORIE
 New Apps=Neue Apps
 Updated Apps=Aktualisierte Apps
 Random Apps=Zufällig Apps
-Top New Installs=Top neue Installationen
+Top New Installs=Neue Top Installationen
 Trending Apps=Trend-Apps
 All Apps=Alle Apps
 OTHER=ANDERE
 Statistics=Statistiken
-Credits=Credits
+Credits=Namensnennungen
 Support=Hilfe
 VERSION=VERSION
-Change Log=Changelog
+Change Log=Änderungsprotokoll
 
 ; Credits
 Development=Entwicklung
-Additional Contributions=Zusätzliche Beteiligung
+Additional Contributions=Zusätzliche Beteiligungen
 GUI Layout Design=GUI Layoutgestaltung
-Application Feed=Anwendungs Feed
+Application Feed=Anwendungsliste
 Additional Testing=Zusätzliche Tests
 Moderation=Leitung
 Additional Libraries=Zusätzliche Bibliotheken
@@ -119,17 +119,17 @@ Copyright=Copyright
 Translation=Übersetzung
 
 ; Statistics page
-Deprecated Applications are able to still be installed if you have previously had them installed New installations of these applications are blocked unless you enable Display Deprecated Applications within CAs General Settings=Veralterte Anwendungen können immer noch installiert werden falls du sie bereits installiert hattest. Neue Installationen diese Anwendungen sind blockiert außer du hast die Option Zeige veralterte Anwendungen in den Einstellungen von CA aktiviert
+Deprecated Applications are able to still be installed if you have previously had them installed New installations of these applications are blocked unless you enable Display Deprecated Applications within CAs General Settings=Veralterte Anwendungen können immer noch installiert werden falls du sie bereits installiert hattest. Neue Installationen diese Anwendungen sind blockiert, außer du hast die Option Zeige veralterte Anwendungen in den Einstellungen von CA aktiviert
 The following applications are blacklisted CA will never allow you to install or reinstall these applications=Die folgenden Anwndungen sind gesperrt. CA wird nicht mehr erlauben diese zu installieren
-While highly not recommended to do, incompatible applications can be installed by enabling Display Incompatible Applications within CAs General Settings=Es ist möglich inkomaptible Anwendungen zu installieren wenn in den Einstellungen von CA Zeige nicht kompatible Anwendungen aktiviert wurde. Allerdings wird stark davon abgeraten
+While highly not recommended to do, incompatible applications can be installed by enabling Display Incompatible Applications within CAs General Settings=Es ist möglich inkomaptible Anwendungen zu installieren, wenn in den Einstellungen von CA Zeige nicht kompatible Anwendungen aktiviert wurde. Allerdings wird stark davon abgeraten
 This display is informational ONLY=Diese Anzeige dient NUR zur Information
 unknown=unbekannt
-Last Change To Application Feed=Letzte änderungen im Anwendungs Feed
-Number Of Docker Applications=Anzahl Docker Container
+Last Change To Application Feed=Letzte Änderungen in der Anwendungsliste
+Number Of Docker Applications=Anzahl Docker Anwendungen
 Number Of Plugin Applications=Anzahl Plugin Anwendungen
 Number Of Templates=Anzahl Vorlagen
 Number Of Repositories=Anzahl Repositories
-Number Of Private Docker Applications=Anzahl privater Docker Container
+Number Of Private Docker Applications=Anzahl privater Docker Anwendungen
 Number Of Invalid Templates=Anzahl ungültige Vorlagen
 Number Of Template Errors=Anzahl mit Fehler in Vorlagen
 Number Of Blacklisted Apps=Anzahl gesperrter Anwendungen
@@ -141,20 +141,20 @@ Backup Server=Backup Server
 
 ; Statistics Popup Titles
 Repository List=Repository Liste
-All Invalid Templates Found=Alle gefunden ungültigen Vorlagen
+All Invalid Templates Found=Alle gefundenen ungültigen Vorlagen
 Template Errors=Vorlagefehler
 All Moderation Entries=Alle Moderationsbeiträge
 
 ; Statistics Popup
 No invalid templates found=Keine ungültigen Vorlagen gefunden
-These templates are invalid and the application they are referring to is unknown=Diese Vorlagen sind ungültig und die Bezug nehmende Anwendung ist unbekannt
-No templates were automatically fixed=Keine Vorlage wurde automatisch korregiert
+These templates are invalid and the application they are referring to is unknown=Diese Vorlagen sind ungültig und die damit verbundene Anwendung ist unbekannt
+No templates were automatically fixed=Keine Vorlage wurde automatisch korrigiert
 All of these errors found have been fixed automatically=Alle Fehler wurde automatisch behoben
-Note that many of these errors can be avoided by following the directions=Viele dieser Fehler können vermieden werden wenn den Vorgaben gefolgt wird
+Note that many of these errors can be avoided by following the directions=Viele dieser Fehler können vermieden werden, wenn den Anweisungen gefolgt wird
 HERE=HIER
 The following plugins have duplicated filenames and are not able to be installed simultaneously=Die folgenden Plugins haben doppelte Dateinamen und können daher nicht gleichzeitig installiert sein
-The following docker applications refer to the same docker repository but may have subtle changes in the template to warrant this=Die folgenden Docker Anwendung verweisen auf das gleiche Docker Repository, beinhalten eventuall Änderungen die dies rechtfertigen
-If any of these entries are incorrect then contact the moderators of CA to discuss=Falls einer der Einträge falsch ist, kontaktiere die Moderatoren von CA
+The following docker applications refer to the same docker repository but may have subtle changes in the template to warrant this=Die folgenden Docker Anwendung verweisen auf das gleiche Docker Repository, beinhalten aber eventuell Änderungen, die dies rechtfertigen
+If any of these entries are incorrect then contact the moderators of CA to discuss=Falls einer dieser Einträge falsch ist, kontaktiere die Moderatoren von CA
 Global Repository Comments=Globale Repository Kommentare
 Applied to all applications=(Auf alle Anwendungen angewandt)
 Individual Application Moderation=Individuelle Anwendungsmoderation
@@ -226,10 +226,10 @@ OtherUncategorized=Andere:Ohne Kategorie
 and %s more=und %s mehr
 
 ; App Popup Related
-Donate To Author=Spende an AutorIn
-Donate To Maintainer=Spende an BetreuerIn
-Author=AutorIn
-Maintainer=BetreuerIn
+Donate To Author=Spende an Autor*in
+Donate To Maintainer=Spende an Betreuer*in
+Author=Autor*in
+Maintainer=Betreuer*in
 DockerHub=DockerHub
 Application Template=Anwendungsvorlage
 Base OS=Basis OS
@@ -241,10 +241,10 @@ Minimum OS=Mindest OS
 Max OS=Maximales OS
 Total Downloads=Gesamt Downloads
 Licence=Lizenz
-30 Day Trend=Trend 30 Tage
+30 Day Trend=30 Tage Trend
 Ranked #%s=Platz #%s
 ; as in Trending up or down arrow
-Trending %s=Trendgin %s
+Trending %s=Trendet %s
 ; as in As of some date
 As of %s=Stand %s
 This application template has been blacklisted=Diese Anwendungsvorlage wurde gesperrt
@@ -254,12 +254,12 @@ Another browser tab or device has updated the displayed templates Some actions a
 Reinstall default=Neuinstallation (standard)
 WebUI=WebUI
 Reinstall=Neuinstallieren
-Install=Intallieren
+Install=Installieren
 Project=Projekt
-Install Using The Templates Default Tag=Instalieren mit den standard Vorgaben der Vorlage
+Install Using The Templates Default Tag=Instalieren mit den Standard Vorgaben der Vorlage
 Moderator Comments=Moderator Kommentare
-Note not all authors keep up to date on change logs=Beachte, dass nicht alle Autoren das Changelog regelmäßig aktualisieren
-Note not all maintainers keep up to date on change logs=Beachte, dass nicht alle Betreuer das Changelog regelmäßig aktualisieren
+Note not all authors keep up to date on change logs=Beachte, dass nicht alle Autoren das die Versionshinweise regelmäßig aktualisieren
+Note not all maintainers keep up to date on change logs=Beachte, dass nicht alle Betreuer die Versionshinweise regelmäßig aktualisieren
 ;the following if using a space you MUST use nbsp but keep it down to one word if at all possible
 Donate=Spende
 Currently Installed Version=Aktuell installierte Version
@@ -320,21 +320,21 @@ Remove Language Pack=Sprachpaket entfernen
 Update Language Pack=Sprachpaket aktualisieren
 Installed Version=Installierte Version
 A note about translations=Hinweis zu den Übersetzungen
-Click here to view the language changelog=Klicken um die Übersetzungs Versionhinweise anzuzeigen
+Click here to view the language changelog=Klicken hier, um die Übersetzungs-Versionhinweise anzuzeigen
 
 ; Help Text
 This chooses how to sort the results=Diese Auswahl bestimmt die Sortierreihenfolge
 These icons respectively will Install or Edit an application=Diese Icons installieren oder ändern eine Anwendung
-Clicking these icons will take you to an applications GUI or settings=Klicken auf diese Icons geht zur GUI der Anwendung oder in die Einstellungen
+Clicking these icons will take you to an applications GUI or settings=Mit einem Klick auf diese Icons gelangt man zur GUI der Anwendung oder in die Einstellungen
 This will update an application=Aktualisiert die Anwendung
-This will take you to the appropriate support thread for an application=Geht zum Hilfe-Thread der Anwendung
+This will take you to the appropriate support thread for an application=Zum Hilfe-Thread der entsprechenden Anwendung
 This will immediately switch to the language=Ändert die Sprache sofort
-This will take you to the project page for an application=Geht zur Projektseite der Anwendung
-Clicking this icon will uninstall the application or delete it from the lists depending upon your current section=Klicken auf das Icon deinstalliert die Anwendung oder löscht sie je nach Auswahlt
-Clicking these icons will pin or unpin an application for later viewer from the Pinned Apps section=Klicken auf diese Icons setzt oder entfernt die Anwendung von der Merkliste zur späteren Durchsicht in der Merkliste
-Clicking this will display more information about the application NOTE You can also click on the applications icon to display more information=Klicke für mehr Informationen zur Anwendung. HINWEIS Klicken auf das Anwendungicon zeigt ebenfalls mehr Informationen der Anwendung
-Clicking this will display any warnings or extra comments about the application=Klicken zeigt Warnungen oder weitere Kommentare zur Anwendung
+This will take you to the project page for an application=Zur Projektseite der Anwendung
+Clicking this icon will uninstall the application or delete it from the lists depending upon your current section=Klicken auf das Icon deinstalliert die Anwendung oder löscht sie je nach Auswahl
+Clicking these icons will pin or unpin an application for later viewer from the Pinned Apps section=Klicken auf diese Icons setzt oder entfernt die Anwendung von der Merkliste zur späteren Ansicht in der Merkliste
+Clicking this will display more information about the application NOTE You can also click on the applications icon to display more information=Klicke für mehr Informationen zur Anwendung. HINWEIS Klicken auf das Anwendungsicon zeigt ebenfalls mehr Informationen der Anwendung
+Clicking this will display any warnings or extra comments about the application=Ein Klick hierauf zeigt Warnungen oder weitere Kommentare zur Anwendung
 On the previous apps section you can select multiple applications to install simultaneously=Im Menü Vorherige Apps können mehrer Anwendungen gleichzeitig installiert werden
-This is the recommended version to install by the application author themselves=Dies ist die vom/von der AutorIn empfohlene Version zur Installation
+This is the recommended version to install by the application author themselves=Dies ist die vom/von der Autor*in empfohlene Version zur Installation
 For support for this plugin visit=Für Hilfe zu diesem Plugin gehe zu
-To view the policies Community Applications has=Um die Richtlinien der Community Applications zu sehen
+To view the policies Community Applications has=Die Richtlinien der Community Applications ansehen
